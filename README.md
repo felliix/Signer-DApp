@@ -1,8 +1,8 @@
-# AlgoSigner dApp Examples
+# Signer dApp 
 
 Try it live at <a href="https://purestake.github.io/algosigner-dapp-example/" target="_blank" rel="noopener noreferrer">purestake.github.io/algosigner-dapp-example/</a>
 
-A sample dApp demonstrating integration with the AlgoSigner Wallet. 
+A dApp demonstrating integration with the AlgoSigner Wallet. 
 
 ### Functions
 Demonstrates several standard scenarios:
